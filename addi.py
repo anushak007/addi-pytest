@@ -7,7 +7,7 @@ if __name__ =="__main__":
         y =  int(sys.argv[2])
         print("USER INPUT PROVIDED")
     else:    
-    x =10
-    y = 20
+     x =10
+     y = 20
 
 print("Sum: ", add(x,y))    
